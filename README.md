@@ -8,8 +8,8 @@ This repository is for **bug reports, feature requests, and general feedback**. 
 
 ## Download
 
-- [CurseForge]([link](https://www.curseforge.com/minecraft/mc-mods/damage-indicator-plus))
-- [Modrinth]([link](https://modrinth.com/mod/damage-indicator-plus+))
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/damage-indicator-plus)
+- [Modrinth](https://modrinth.com/mod/damage-indicator-plus+)
 
 ---
 
@@ -75,5 +75,5 @@ No. The mod is All Rights Reserved. Contact us first.
 
 ## Links
 
-- [CurseForge Page](link)
-- [Modrinth Page](link)
+- [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/damage-indicator-plus)
+- [Modrinth Page](https://modrinth.com/mod/damage-indicator-plus+)
