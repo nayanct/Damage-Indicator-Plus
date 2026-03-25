@@ -8,8 +8,8 @@ This repository is for **bug reports, feature requests, and general feedback**. 
 
 ## Download
 
-- [CurseForge](link)
-- [Modrinth](link)
+- [CurseForge]([link](https://www.curseforge.com/minecraft/mc-mods/damage-indicator-plus))
+- [Modrinth]([link](https://modrinth.com/mod/damage-indicator-plus+))
 
 ---
 
